@@ -1,7 +1,7 @@
 package com.example.myreceipeapp
 
-import android.icu.util.ULocale.Category
 import androidx.compose.foundation.Image
+
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.aspectRatio
 import androidx.compose.foundation.layout.fillMaxSize
